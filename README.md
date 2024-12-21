@@ -10,7 +10,7 @@
 </div>
 
 
-# What is Genesis?
+## What is Genesis???
 Genesis is a physics platform designed for general purpose *Robotics/Embodied AI/Physical AI* applications. It is simultaneously multiple things:
 1. A **universal physics engine** re-built from the ground up, capable of simulating a wide range of materials and physical phenomena.
 2. A **lightweight**, **ultra-fast**, **pythonic**, and **user-friendly** robotics simulation platform.
